@@ -1,0 +1,10 @@
+@charset"utf=8";
+body {
+    font-size: 50px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 39px;
+    background-color: lightgray;
+    box-sizing: border-box;
+  }
